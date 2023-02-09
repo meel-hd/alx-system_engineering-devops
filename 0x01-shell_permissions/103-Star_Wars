@@ -1,2 +1,2 @@
 #!/bin/bash
-echo A New Hope
+telnet towel.blinkenlights.nl
